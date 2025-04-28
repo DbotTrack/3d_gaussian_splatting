@@ -1,0 +1,7 @@
+# ninja log v5
+0	5430	1741336184798470200	/media/dbot/Algo/Algo/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	ac552537bc828b5d
+0	7451	1741336186815454600	/media/dbot/Algo/Algo/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	aca1ffa4972b9b3f
+0	23133	1741336202500333600	/media/dbot/Algo/Algo/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	b9ce5d020a0e708b
+1	5666	1745826643938741541	/home/dbot/Documents/gaussian_splatting_dbot/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	5828c856be6e2b03
+0	9100	1745826647365715183	/home/dbot/Documents/gaussian_splatting_dbot/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	306f09bb7651a57
+1	25762	1745826664033587306	/home/dbot/Documents/gaussian_splatting_dbot/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	33aa0f8d3a25dc09
